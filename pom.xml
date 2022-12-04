@@ -21,6 +21,7 @@
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
   <distributionManagement>
+	  <!--
 	    <repository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Releases Nexus Repository</name>
@@ -32,6 +33,6 @@
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
 	      <url>http://3.98.56.196:8081/repository/EnterpriseSnapshotRepo/</url>
 	    </snapshotRepository>
-	    
+	    -->
 	</distributionManagement>
 </project>
