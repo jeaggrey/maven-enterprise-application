@@ -14,7 +14,7 @@
   <url>http://maven.apache.org</url>
 
   <build>
-    <finalName>MavenEnterpriseApp-ear</finalName>
+   
   </build>
     <dependencies>
         <dependency>
