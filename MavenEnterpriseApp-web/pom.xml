@@ -109,7 +109,7 @@
 	
 
 	<build>
-		<finalName>MavenEnterpriseApplication</finalName>
+		<finalName>MavenEnterpriseApplication.war</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
