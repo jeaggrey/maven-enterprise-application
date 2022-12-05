@@ -21,18 +21,18 @@
 	<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 </properties>
   <distributionManagement>
-	  <!--
+	  
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://3.98.56.196:8081/repository/EnterpriseReleaseRepo/</url>
+	      <name>Joseph Aggrey's Release Repo</name>
+	      <url>http://3.99.217.7:8081/repository/EnterpriseReleaseRepo/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.98.56.196:8081/repository/EnterpriseSnapshotRepo/</url>
+	      <name>Joseph Aggrey's Release Repo</name>
+	      <url>http://3.99.217.7:8081/repository/EnterpriseSnapshotRepo/</url>
 	    </snapshotRepository>
-	    -->
+	    
 	</distributionManagement>
 </project>
