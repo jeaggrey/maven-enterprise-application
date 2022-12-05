@@ -12,7 +12,19 @@
   <version>1.0</version>
   <name>MavenEnterpriseApp-ear JavaEE6 Assembly</name>
   <url>http://maven.apache.org</url>
-
+<distributionManagement>
+		<repository>
+	      <id>nexus</id>
+	      <name>Joseph Aggrey's Release Repo</name>
+	      <url>http://3.99.217.7:8081/repository/EnterpriseReleaseRepo/</url>
+	    </repository>
+	    
+	    <snapshotRepository>
+	      <id>nexus</id>
+	      <name>Joseph Aggrey's Release Repo</name>
+	      <url>http://3.99.217.7:8081/repository/EnterpriseSnapshotRepo/</url>
+	    </snapshotRepository>
+	</distributionManagement>
   <build>
     <finalname>EnterpriseApp1.0</finalname>
   </build>
