@@ -26,7 +26,7 @@
 	    </snapshotRepository>
 	</distributionManagement>
   <build>
-    <finalname>EnterpriseApp1.0</finalname>
+    <finalName>EnterpriseApp1.0</finalName>
   </build>
     <dependencies>
         <dependency>
