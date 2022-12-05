@@ -111,7 +111,7 @@
 	
 
 	<build>
-	
+		<finalname>EnterpriseWebApp1.0</finalname>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
