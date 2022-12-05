@@ -110,7 +110,7 @@
 	
 
 	<build>
-		<finalname>EnterpriseWebApp1.0</finalname>
+		<finalName>EnterpriseWebApp1.0</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
