@@ -14,7 +14,7 @@
   <url>http://maven.apache.org</url>
 
   <build>
-   
+    <finalname>EnterpriseApp1.0</finalname>
   </build>
     <dependencies>
         <dependency>
